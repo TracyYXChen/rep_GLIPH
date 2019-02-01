@@ -1,0 +1,8 @@
+HLA-A2	EBV
+HLA-A2	flu
+HLA-B7	flu
+HLA	Antigen
+HLA-A1	flu
+HLA-A1	CMV
+HLA-B7	CMV
+HLA-A2	CMV
